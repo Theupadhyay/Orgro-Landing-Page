@@ -1,8 +1,8 @@
 import React from 'react';
 import Header from './Components/Header';
 import Hero from './Components/Hero';
-import SocialMedia from './components/SocialMedia';
-import BusinessFlow from './components/BusinessFlow';
+import SocialMedia from './Components/SocialMedia';
+import BusinessFlow from './Components/BusinessFlow';
 
 function App() {
   return (
